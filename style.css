@@ -1,0 +1,159 @@
+body {
+    padding-top: 800px;
+    margin: 0;
+    text-align: center;
+}
+
+.profile {
+   width: 300px;
+   height: 250px;
+   margin-top:90px;
+   margin-bottom: 10px;
+   border-radius: 15%;
+}
+
+#welcome {
+    position: absolute;
+    color: azure;
+    bottom: 0;
+    background: linear-gradient(#ffab91 0%, #94ffd2 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9px;
+    text-align: center;
+}
+
+.parallaxinner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 70px;
+    line-height: 1.2;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 70px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+
+}
+
+
+
+
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 25px;
+    font-family: cursive;
+    display: inline;
+    font-size: 20px;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: coral;
+}
+#writings a{
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: #ffab91 !important;
+    text-align: center;
+    
+}
+#contact {
+    background: firebrick;
+    text-align: center;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: white;
+    text-shadow: none;
+}
+
+h2{
+    font-family: inherit;
+}
+
+#name1 {
+    font-size: 80px;
+    line-height: 1.2;
+    font-family: 'Dancing Script', cursive;
+}
+#flora {
+    width: 400px;
+    height: 400px;
+    
+}
+#population {
+    width: 300px;
+    height: 300px;   
+}
+#aipan {
+    width: 300px;
+    height: 300px;
+}
+#food {
+    width: 300px;
+    height: 300px;
+}
+#wear {
+    width: 500px;
+    height: 300px;
+}
+#wear2 {
+    width: 500px;
+    height: 300px;
+}
+
+#size {
+    width: 500px;
+}
